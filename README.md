@@ -1,4 +1,4 @@
-<h1>Campus Navigation System</h1>
+<h1>Campus Navigator</h1>
 <p><em>A Python-based navigation system for VIT Bhopal University campus.</em></p>
 
 <h2>About the Project</h2>
@@ -16,14 +16,14 @@ This Project helps students, faculty, and visitors navigate the college campus a
 
 <h2>Look of the Interface</h2>
 <p><em>
-  <img src="NavigationSystemElements/Images/Campus.jpg" width="350" title="Campus">
+  <img src="GeoResources/Images/Campus.jpg" width="350" title="Campus">
 </em></p>
 
 <h2>Folder Structure</h2>
 <pre>
 <code>
-Smart-Navigation-System/  
-├── NavigationSystemElements/     # Contains map data as JSON files for paths and marker data as CSV files
+CampusNavigator/  
+├── GeoResources/     # Contains map data as JSON files for paths and marker data as CSV files
 │   ├── Blue/                     # JSON files for Boys Hostel Co-ordinates
 │   ├── Green/                    # JSON files for Ground and Ponds Co-ordinates
 │   ├── Orange/                   # JSON files for Canteens Co-ordinates
@@ -48,7 +48,7 @@ Smart-Navigation-System/
 │   │   ├── pink/                 # JSON files for Faculty Cabins Co-ordinates
 │   │   ├── red/                  # JSON files for Classrooms Co-ordinates
 │   ├── Images/                   # Demo Image of Projects
-├── Main_Code.ipynb               # Python scripts  
+├── Code.ipynb               # Python scripts  
 ├── README.md                     # Project description  
 └── LICENSE                       # License information
 </code>
