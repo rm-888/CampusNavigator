@@ -29,18 +29,12 @@ This Project helps students, faculty, and visitors navigate the college campus a
   <li>Screenshot of AB Ground Floor interface.</li>
   <li>Example of a path being displayed.</li>
 </ul>
-<h2>🛑 Prerequisites</h2>
-<p>Before you start, make sure you have the following installed:</p>
+<h2>🛑 Python Libraries Used</h2>
 <ul>
   <li>Python</li>
   <li>Jupyter NoteBook or JupyterLab</li>
   <li>Libraries:</li>
 </ul>
-<pre>
-<code>pip install folium</code>
-<code>pip install pandas</code>
-<code>pip install ipywidgets</code>
-</pre>
 
 <h2>📂 Folder Structure</h2>
 <pre>
@@ -76,72 +70,3 @@ Smart-Navigation-System/
 └── LICENSE                       # License information
 </code>
 </pre>
-
-<h2>🚦 How to Run the Program</h2>
-<ol>
-  <li><b>Clone the repository:</b>
-    <pre>
-git clone https://github.com/Deeks779/Smart-Navigation-System.git
-cd Smart-Navigation-System
-    </pre>
-  </li>
-  <li><b>Start Jupyter Notebook or JupyterLab:</b>
-    <pre>
-jupyter notebook
-    </pre>
-    OR
-    <pre>
-jupyter lab
-    </pre>
-  </li>
-  <li><b>Open the Notebook:</b> 
-    In the Jupyter interface, navigate to the directory containing the project and open the file:
-    <pre>Main_Code.ipynb</pre>
-  </li>
-  <li><b>Run the Notebook:</b>
-    <ul>
-      <li>Execute the cells sequentially by selecting a cell and pressing <b>Shift + Enter</b>.</li>
-      <li>Interact with the widget interface to explore the campus navigation functionality.</li>
-    </ul>
-  </li>
-</ol>
-
-<h2>🤝 Contributing</h2>
-<p>Contributions are welcome!</p>
-<ol>
-  <li>Fork the repository.</li>
-  <li>Create your feature branch:</li>
-</ol>
-<pre>
-<code>git checkout -b feature/AmazingFeature</code>
-</pre>
-<ol start="3">
-  <li>Commit your changes:</li>
-</ol>
-<pre>
-<code>git commit -m "Add some AmazingFeature"</code>
-</pre>
-<ol start="4">
-  <li>Push to the branch:</li>
-</ol>
-<pre>
-<code>git push origin feature/AmazingFeature</code>
-</pre>
-<ol start="5">
-  <li>Open a pull request.</li>
-</ol>
-
-<h2>✒️ Team Members</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/deeksha-kushwaha">Deeksha Kushwaha [Leader]</a></li>
-  <li>Rujula Malhotra</li>          
-  <li>Anwesha Chatterjee</li>    
-  <li>Arunanshi Kaushish</li>  
-  <li>Khushi Gupta </li>
-</ul>
-
-<h2>📜 License</h2>
-<p>
-This project is licensed under the MIT License. See 
-<code>LICENSE</code> for more details.
-</p>
